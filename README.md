@@ -20,10 +20,10 @@ This project involves designing and developing an e-commerce website named **Can
 - Full code and appendix with HTML, CSS, JavaScript  
 - Bibliography and references  
 
-## Files in this Repo  
-- [23047473 Evani Raut/Evani Raut.pdf](./23047473%20Evani%20Raut/Evani%20Raut.pdf) — Project documentation/report  
-- [23047473 Evani Raut/Evani Raut_23047473](./23047473%20Evani%20Raut/Evani%20Raut_23047473) — Development files (HTML, CSS, JS, images, etc.)  
-
+## Files in this Repo    
+- [`/Documentation`](./Documentation) — Planning, report, figures, wireframes, testing, and design analysis  
+- [`/Development`](./Development) — Source code (HTML, CSS, JavaScript), assets, and working pages
+   
 ## Key Pages  
 - **Home:** Overview of all major sections  
 - **Product:** Listings with printer name, image, and price  
